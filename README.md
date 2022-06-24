@@ -1,7 +1,7 @@
 # e-shop of crap
 
 Helo, dear customers!
-Here is located my vue project built for github pages
+Here is located my vue project built for github pages <br>
 Original vue-js(2.6.14) code located in another repo - 
 https://github.com/kay4yk13/e-commerce/tree/kay4yk-vue
 
